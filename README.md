@@ -28,3 +28,7 @@ Figures are written to `figures/`. Tables, and the one figure labelled by patien
 - Primary analysis: paired, self-controlled negative binomial GEE of SCC counts on an on-drug indicator, offset by log person-months, clustered by patient, exchangeable working correlation, robust standard errors.
 - Mean cumulative function: Nelson-Aalen estimator with the Lawless-Nadeau robust variance.
 - Analyses over a multi-year pre-treatment window include only patients with a recorded count in every year of that window.
+
+---
+
+Code by [@alyakin314](https://github.com/alyakin314), with friend Claude.
