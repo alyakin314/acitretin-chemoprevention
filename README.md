@@ -29,6 +29,10 @@ Figures are written to `figures/`. Tables, and the one figure labelled by patien
 - Mean cumulative function: Nelson-Aalen estimator with the Lawless-Nadeau robust variance.
 - Analyses over a multi-year pre-treatment window include only patients with a recorded count in every year of that window.
 
+## Citation
+
+If you use any part of this codebase in your research, please cite our paper. The manuscript is in preparation; the citation will follow here.
+
 ---
 
 Code by [@alyakin314](https://github.com/alyakin314), with friend Claude.
