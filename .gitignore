@@ -1,0 +1,10 @@
+# Patient-level data never goes in this repository
+*.xlsx
+*.xls
+*.csv
+outputs/
+
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+.venv/
